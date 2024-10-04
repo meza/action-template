@@ -10,4 +10,4 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Validate Action
-        uses: meza/action-validate-action@v1.0.0
+        uses: meza/action-validate-action@v1.0.1
