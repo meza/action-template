@@ -4,7 +4,6 @@ description: "Does the very cool thing in a cool way"
 inputs:
   node-version:
     description: "What version to install?"
-    type: string
     required: false
     default: latest
 
